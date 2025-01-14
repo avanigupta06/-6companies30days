@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Solution {
+public class BestTimeToBuySell4 {
 
     public int maxProfit(int k, int[] prices) {
 
