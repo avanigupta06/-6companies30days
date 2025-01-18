@@ -14,9 +14,9 @@
  * }
  */
 
- import java.util.*;
+import java.util.*;
 
- class Solution {
+class Solution {
      public int amountOfTime(TreeNode root, int start) {
          Map<Integer, Set<Integer>> map = new HashMap<>();
          convert(root, 0, map);
