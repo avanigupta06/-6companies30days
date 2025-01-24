@@ -14,4 +14,4 @@ class Solution {
     }
 }
 // Time Complexity: O(nlogn)
-// Space Complexity: O(logn)
+// Space Complexity: O(n)
